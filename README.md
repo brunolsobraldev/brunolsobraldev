@@ -24,6 +24,7 @@ Git & GitHub
 
 ---
 
-🎯 Em constante evolução como desenvolvedor Full Stack.
+🚀 Em constante evolução, construindo projetos reais e aprimorando minhas habilidades como desenvolvedor Full Stack.
+
 
 📫 Contato: bruno.sobral.dev@gmail.com
